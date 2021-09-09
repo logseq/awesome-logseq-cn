@@ -10,9 +10,13 @@ Logseq 中文社区链接
 ## 教程
 
 - 王树义老师
+  
   B站：https://www.bilibili.com/video/BV1eq4y1N7Su
+  
   知乎：https://www.zhihu.com/people/wang-shu-yi-11
+  
   推荐视频 (更多请查看 B站):
+  
   [Logseq 中的查询（2） Query 命令](https://www.bilibili.com/video/BV1eq4y1N7Su)
 
 
